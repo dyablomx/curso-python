@@ -17,3 +17,6 @@ print(alumnos)
 
 #len devuelve la cantidad de elementos en la lista
 print(f"Total de alumnos: {len(alumnos)}")
+
+for alumno in alumnos:
+    print(alumno)
